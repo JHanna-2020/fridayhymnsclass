@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'cs_avva_shenoudaregular';
+    src: url('fonts/csavvashenouda-webfont.woff2') format('woff2'),
+         url('fants/csavvashenouda-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+#heading{
+    font-family: "cs_avva_shenoudaregular";
+    text-align: center;
+    margin: 0;
+    padding:5px;
+}
+.color{
+    background-color:aquamarine;
+
+}
+#eng{
+    font-family: sans-serif;
+}
+.nav{
+    margin:0;
+   padding:30px;
+    background-color: aquamarine;
+}
+hr{
+    margin:0;
+}
+#coptic{
+    font-family: "cs_avva_shenoudaregular";
+ 
+}
+.navItem{
+    margin-right: 10px;
+}
+#hymn1{
+    border:1px solid black;
+    border-radius:5px;
+}
+#video{
+    text-align: center;
+}
+.mar{
+    margin-left: 5px;
+}
+#lyrics{
+    max-width:25%;
+    background-color:yellow
+}
+p{
+    font-size: 20px;
+}
